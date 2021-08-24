@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background-image: url(123.jpg);
+  background-color: solid wheat;
+  height: 100%;
+  background-position: justified;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family:Georgia, serif;
+  font-weight: 100;
+}
